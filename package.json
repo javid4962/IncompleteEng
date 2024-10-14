@@ -1,0 +1,23 @@
+{
+  "name": "incompleteeng",
+  "version": "1.0.0",
+  "description": "Listing out the Incomplete Engineering colleges ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "worldwideEduConsultancy"
+  ],
+  "author": "javid4962",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
