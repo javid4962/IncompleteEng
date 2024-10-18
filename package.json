@@ -2,7 +2,7 @@
   "name": "incompleteeng",
   "version": "1.0.0",
   "description": "Listing out the Incomplete Engineering colleges ",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "npx parcel src/index.html",
     "build": "parcel build ./src/index.html",
