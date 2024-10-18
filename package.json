@@ -4,7 +4,7 @@
   "description": "Listing out the Incomplete Engineering colleges ",
   "scripts": {
     "start": "npx parcel src/index.html",
-    "build": "npx parcel src/index.html"
+    "build": "npx parcel build src/index.html"
   },
   "keywords": [
     "worldwideEduConsultancy"
