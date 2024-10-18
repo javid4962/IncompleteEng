@@ -1,5 +1,5 @@
 import React from 'react'
-import img from './img/klu.jpg'
+import img from './img/KLU.jpg'
 
 function Header() {
     return (
