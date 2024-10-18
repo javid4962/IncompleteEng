@@ -2,11 +2,9 @@
   "name": "incompleteeng",
   "version": "1.0.0",
   "description": "Listing out the Incomplete Engineering colleges ",
-  "main": "index.html",
   "scripts": {
     "start": "npx parcel src/index.html",
-    "build": "parcel build ./src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx parcel src/index.html"
   },
   "keywords": [
     "worldwideEduConsultancy"
