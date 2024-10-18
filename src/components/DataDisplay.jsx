@@ -14,7 +14,8 @@ const DataDisplay = ({ data }) => {
             <p>TPO Name: <b>{data.tpoName}</b></p>
             <p>TPO Number: <b>{data.tpoNumber}</b></p>
             <p>Mail: <b><a href={`mailto:${data.mailId}`}>{data.mailId}</a></b></p>
-            <p>Office Number: <b><a href={`tel:${data.officeNumber}`}>{data.officeNumber}</a></b></p>
+            <p>Office Number: <b>{data.officeNumber}</b></p>
+            <p>Website: <b><a href={data.website}>{data.website}</a></b></p>
 
             {/* <img src={data.image} alt="" /> */}
 
