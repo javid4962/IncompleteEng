@@ -1,10 +1,10 @@
 import React from 'react';
 import { useState } from 'react'
 import DataDisplay from './DataDisplay';
-import jsonData from './DataComponent';
+import { PharmacyData } from './DataComponent';
 
-function filterData(searchText, colleges) {
-    const filterData = colleges.filter((college) =>
+function filterData(searchText, engColleges) {
+    const filterData = engColleges.filter((college) =>
 
         // college?.name?.toLowerCase().includes(searchText.toLowerCase())
         college?.name?.toLowerCase().includes(searchText.toLowerCase()) ||
@@ -15,21 +15,22 @@ function filterData(searchText, colleges) {
         college?.tpoName?.toLowerCase().includes(searchText.toLowerCase()) ||
         college?.tpoNumber?.toLowerCase().includes(searchText.toLowerCase()) ||
         college?.mailId?.toLowerCase().includes(searchText.toLowerCase()) ||
-        college?.officeNumber?.toLowerCase().includes(searchText.toLowerCase())
+        college?.officeNumber?.toLowerCase().includes(searchText.toLowerCase()) ||
+        college?.website?.toLowerCase().includes(searchText.toLowerCase())
 
     );
     return filterData;
 }
 
-const ParentComponent = () => {
+const Pharmacy = () => {
     const [searchText, setSearchText] = useState("");
-    const [colleges, setColleges] = useState(jsonData);
-    const [filterColleges, setFilterColleges] = useState(jsonData);
+    const [engColleges, setEngColleges] = useState(PharmacyData);
+    const [filterColleges, setFilterColleges] = useState(PharmacyData);
 
     return (
         <div className='container'>
             <div className="search-container">
-                <h1 className='header'>Incomplete Engineering Colleges List</h1>
+                <h1 className='header'>Pharmacy Colleges List ({filterColleges.length})</h1>
 
                 <input
                     type="search"
@@ -41,7 +42,7 @@ const ParentComponent = () => {
                         setSearchText(value); // Set the search text
 
                         // Filter the colleges based on the current value
-                        const filteredData = filterData(value, colleges);
+                        const filteredData = filterData(value, engColleges);
                         setFilterColleges(filteredData);
                     }}
                 />
@@ -57,4 +58,4 @@ const ParentComponent = () => {
     );
 };
 
-export default ParentComponent;
+export default Pharmacy;

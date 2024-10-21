@@ -3,6 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   background: var(--primary-color);
+  /* background: transparent; */
   position: relative;
   color: var(--text-color);
   font-family: "Roboto Slab", serif;
@@ -10,15 +11,16 @@ body {
   align-items: center;
 }
 :root {
-  --primary-color: #a6d7d9;
+  --primary-color: #ffd1d14d;
   --secondary-color: #000;
   --text-color: #000000;
   --border-color: #4f4f4f;
-  --card-color: #e5f9ff;
+  --card-color: #e5f9ffb7;
 }
 ::-webkit-scrollbar {
   width: 5px; /* Width of the scrollbar */
 }
+
 a,
 b,
 li {
@@ -39,17 +41,17 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* flex: 1; */
-  width: 100vw;
-  /* height: 100vh; */
-  /* flex-basis: 100px 100px 100px; */
+  width: 100dvw;
   flex-wrap: wrap;
 }
 .component {
   margin: 0.5rem;
+  display: flex;
+  text-wrap: wrap;
+  flex-direction: column;
   background-color: var(--card-color);
   color: var(--secondary-color);
-  /* text-shadow: 1px 1px var(--text-color); */
+  text-shadow: 1px 1px var(--card-color);
   border: 2px solid var(--border-color);
   padding: 1rem;
   border-radius: 1rem;
@@ -74,11 +76,11 @@ h1 {
   margin: auto;
 }
 .search-container {
-  margin: 0;
+  margin: auto;
   padding: 0;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
   /* flex: 1; */
   width: 100vw;
   /* height: 100vh; */
@@ -118,6 +120,13 @@ h1 {
 }
 .list-item {
   margin: 1rem;
+}
+.list-item > a {
+  color: black;
+  font-weight: 900;
+}
+li .text-white {
+  color: white;
 }
 
 /* responsive code starts */

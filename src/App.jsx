@@ -1,13 +1,24 @@
 import React from 'react'
-import ParentComponent from './components/ParentComponent'
 import Header from './Header'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Engineering from './components/Engineering'
+import Pharmacy from './components/Pharmacy';
 
 function App() {
     return (
         <>
-            {/* <Header /> */}
-            <ParentComponent />
+            {/* <Header />
+            <Engineering /> */}
+
+            <Router>
+                <Header />
+                <Routes>
+                    <Route path='/' element={<Engineering />} />
+                    <Route path='/pharmacy' element={<Pharmacy />} />
+                </Routes>
+            </Router>
         </>
+
     )
 }
 

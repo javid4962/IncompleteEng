@@ -1,0 +1,83 @@
+{
+        id: ,
+        name: "",
+        university: '',
+        departments: '',
+        address: '',
+        principalName: '',
+        principalNumber: '',
+        tpoName: '',
+        tpoNumber: '',
+        mailId: '',
+        officeNumber: '',
+        website: '',
+        iframe: ''
+    },
+
+													
+						
+													
+								 					
+												
+
+
+													
+												
+																								
+												
+
+													
+													
+												
+AM Reddy Memorial College of Pharmacy
+https://amreddypharmacy.co.in/
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9261.09276698649!2d80.00235840537279!3d16.177623187525317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a8500068ba0d9%3A0x11ac03d83bc777b9!2sA.M%20Reddy%20Memorial%20College%20of%20Pharmacy!5e0!3m2!1sen!2sin!4v1729514385848!5m2!1sen!2sin
+
+ASN Pharmacy College 
+https://www.asnpharmacollege.in/
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.676737798518!2d80.6693519!3d16.2370503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0678651d8521%3A0xd91a03c1bc648e41!2sA.S.N.%20Pharmacy%20College!5e0!3m2!1sen!2sin!4v1729514453657!5m2!1sen!2sin
+
+Bapatla College of Pharmacy
+http://bcopbapatla.in/
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7674.326174431042!2d80.46363889999999!3d15.90052465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a3f1d48d3ee71%3A0x715ee487591154e8!2sBapatla%20College%20of%20Pharmacy%2C!5e0!3m2!1sen!2sin!4v1729514540979!5m2!1sen!2sin
+
+Chalapathi Institute of Pharmaceutical Sciences
+
+Chebrolu Hanumaiah Institute Of Pharmaceutical Sciences
+
+Don Bosco PG College
+
+Hindu College of Pharmacy 
+
+K.C. Reddy Institute of Pharmaceutical Sciences
+
+Malineni Perumallu Educational Societys Group of Colleges
+
+Medarametta Anjamma Mastan Rao (MAM) College of Pharmacy
+
+Narasaraopeta Institute of Pharmaceutical Sciences
+
+Nirmala College of Pharmacy
+
+Nrk And Ksr Gupta College Of Pharmacy
+
+Priyadarshini Institute Of Technology & Management
+
+Nalanda Institute Of Pharmaceutical Sciences
+
+Viswa Bharathi College of Pharmaceutical Sciences
+
+Vignan Pharmacy College
+
+Victoria College of Pharmacy 
+
+ Vagdevi College of Pharmacy
+
+St.Xavier Inst. of Pharmacy 
+
+SIMS College of Pharmacy 
+
+"Siddhartha Institure of Pharmceutical Sciences 
+"
+
+Sharada College of Pharmaceutical Sciences 
