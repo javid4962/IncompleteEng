@@ -148,7 +148,7 @@ export const EngineeringData = [
         principalNumber: ' ',
         tpoName: 'Madhava Rao',
         tpoNumber: '9502257151',
-        mailId: '',
+        mailId: 'placements.khit@gmail.com, cgtp@khitguntur.ac.in',
         officeNumber: '0863-2119720',
         website: 'https://khitguntur.ac.in/',
         iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3550.9790996968945!2d80.32795157758704!3d16.25794774435247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a76f082383d8f%3A0x8545c11795f964d8!2sKallam%20Haranadhareddy%20Institute%20of%20Technology!5e1!3m2!1sen!2sin!4v1728641480679!5m2!1sen!2sin'
@@ -355,10 +355,10 @@ export const EngineeringData = [
         departments: 'M.Tech, B.Tech',
         address: 'Chowdavaram, Andhra Pradesh 522019',
         principalName: 'Dr. Kolla Srinivas',
-        principalNumber: ' ',
+        principalNumber: '9866281628, 9491073317/18',
         tpoName: '',
         tpoNumber: '',
-        mailId: 'principal@rvrjc.ac.in',
+        mailId: 'principal@rvrjc.ac.in, rvrjcce@hotmail.com, dr.kollasrinivas@gmail.com',
         officeNumber: '0863-2288201',
         website: 'https://rvrjcce.ac.in/',
         iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3551.036698182428!2d80.32332137478942!3d16.254760584451958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a76e740000001%3A0xc41c8498715c6da0!2sR.V.R.%20%26%20J.C.College%20of%20Engineering!5e1!3m2!1sen!2sin!4v1728642112255!5m2!1sen!2sin'
@@ -520,11 +520,11 @@ export const EngineeringData = [
         departments: 'M.TEch, B.Tech',
         address: 'Nh-5 ,Tummalapalem , 522233, Guntur Distric  0863-2344413 ',
         principalName: 'Dr. S. Gopi Krishna',
-        principalNumber: '',
+        principalNumber: '9000453733',
         tpoName: '',
         tpoNumber: '',
-        mailId: 'smitw08@gmail.com',
-        officeNumber: '9000447117',
+        mailId: 'smitw08@gmail.com, kishore_m25@yahoo.com',
+        officeNumber: '9000447117, M.Kishore Kumar(vise president) - 9010846111',
         website: 'https://smitw.in/',
         iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3829.6039051023135!2d80.44953997479027!3d16.292058884420154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a75633cdd1f41%3A0x4b66eecaf35055f5!2sSri%20Mittapalli%20Institute%20of%20Technology%20for%20Women!5e0!3m2!1sen!2sin!4v1729497835858!5m2!1sen!2sin'
     },
@@ -561,8 +561,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'principalamrmcp2004@gmail.com ',
         officeNumber: '',
-        website: '',
-        iframe: ''
+        website: 'https://amreddypharmacy.co.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9261.09276698649!2d80.00235840537279!3d16.177623187525317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a8500068ba0d9%3A0x11ac03d83bc777b9!2sA.M%20Reddy%20Memorial%20College%20of%20Pharmacy!5e0!3m2!1sen!2sin!4v1729514385848!5m2!1sen!2sin'
     },
     {
         id: 3,
@@ -576,8 +576,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'asnpharmacollege@reddiffmail.com ',
         officeNumber: '',
-        website: '',
-        iframe: ''
+        website: 'https://www.asnpharmacollege.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.676737798518!2d80.6693519!3d16.2370503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0678651d8521%3A0xd91a03c1bc648e41!2sA.S.N.%20Pharmacy%20College!5e0!3m2!1sen!2sin!4v1729514453657!5m2!1sen!2sin'
     },
     {
         id: 4,
@@ -591,8 +591,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'bapatlapharmacy@bcopbapatla.in, bcp.principal@gmail.com',
         officeNumber: '',
-        website: '',
-        iframe: ''
+        website: 'http://bcopbapatla.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7674.326174431042!2d80.46363889999999!3d15.90052465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a3f1d48d3ee71%3A0x715ee487591154e8!2sBapatla%20College%20of%20Pharmacy%2C!5e0!3m2!1sen!2sin!4v1729514540979!5m2!1sen!2sin'
     },
     {
         id: 5,
@@ -606,8 +606,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'nadendla2000@yahoo.co.in',
         officeNumber: '(0863) - 2524124. 2524125 + 91 863 2524124 + 91 863 2524125',
-        website: '',
-        iframe: ''
+        website: 'https://www.chalapathipharmacy.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3828.0851960750692!2d80.4334450103455!3d16.369621884288957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f3546520387d%3A0x1074384ec16bc479!2sCLPT%2C%20Chalapathi%20Institute%20of%20Pharmaceutical%20Sciences!5e0!3m2!1sen!2sin!4v1729575600520!5m2!1sen!2sin'
     },
     {
         id: 6,
@@ -617,12 +617,12 @@ export const PharmacyData = [
         address: 'Beside RVR & JC College of Engineering Chandramoulipuram, Chowdavaram, GUNTUR - 522019',
         principalName: '',
         principalNumber: '',
-        tpoName: '',
-        tpoNumber: '',
-        mailId: 'chipsguntur@gmail.com',
+        tpoName: 'Dr. Vutla Venkata Rao (M.Pharm., Ph.D)',
+        tpoNumber: '9866204171',
+        mailId: 'chipsguntur@gmail.com, venkataraovutla@gmail.com, placements@chips.ac.in',
         officeNumber: '7382008494, 9849226300',
-        website: '',
-        iframe: ''
+        website: 'https://www.chips.ac.in/pages/index.php',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.37347741801!2d80.3221746103428!3d16.25261808438889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a76e3229a1b83%3A0xb859ed4d0357991e!2sChebrolu%20Hanumaiah%20Institute%20Of%20Pharmaceutical%20Sciences!5e0!3m2!1sen!2sin!4v1729575645704!5m2!1sen!2sin'
     },
     {
         id: 7,
@@ -637,7 +637,7 @@ export const PharmacyData = [
         mailId: 'ramesh_popori@yahoo.com, donbosco_pgcollege@yahoo.com',
         officeNumber: '',
         website: '',
-        iframe: ''
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52368.71473663698!2d80.39838403507099!3d16.252632145836834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a746fac50dd99%3A0x8ce8c6d594e6476e!2sDon%20Bosco%20PG%20College!5e0!3m2!1sen!2sin!4v1729575744284!5m2!1sen!2sin'
     },
     {
         id: 8,
@@ -651,8 +651,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'drmvnagabhushanam@hcopguntur.ac.in, hcopgnt@gmail.com, hinducollegeofpharmacy@yahoo.com',
         officeNumber: ' 0863-2221935, 2217783, 9912342122',
-        website: '',
-        iframe: ''
+        website: 'https://hcopguntur.ac.in/index.php',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3829.08516007301!2d80.43525441034433!3d16.318592384332522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a358aa0b3152b2d%3A0x937b37b38bb934cd!2sHindu%20College%20of%20Pharmacy!5e0!3m2!1sen!2sin!4v1729575777208!5m2!1sen!2sin'
     },
     {
         id: 9,
