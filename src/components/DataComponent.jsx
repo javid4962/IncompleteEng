@@ -246,17 +246,17 @@ export const EngineeringData = [
     {
         id: 17,
         name: "Narasaraopeta Engineering College (NEC)",
-        university: '(Autonomous)',
-        departments: 'M.Tech, B.Tech',
-        address: 'Kotappakonda Rd, Narasaraopeta, Andhra Pradesh 522601',
-        principalName: 'Dr. Rajendra Prasad	',
+        university: 'Autonomous',
+        departments: 'M.TEch/B.Tech',
+        address: 'Kotappakonda Rd, Narasaraopeta, Andhra Pradesh 522601 Phone: 086472 39904',
+        principalName: 'Dr. Rajendra Prasad',
         principalNumber: '8106876577',
-        tpoName: '',
-        tpoNumber: '',
-        mailId: '',
-        officeNumber: '0864-7239904',
+        tpoName: 'Syam Kumar Reddy Kolli ',
+        tpoNumber: '9885553622',
+        mailId: 'info@nrtec.in',
+        officeNumber: '8106306313,09154686203',
         website: 'https://www.nrtec.in/',
-        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3552.0385758505345!2d80.05354047478808!3d16.199224984499256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a8729805efff9%3A0x3c49f6f7829f8426!2sNarasaraopeta%20Engineering%20College%20(Autonomous)!5e1!3m2!1sen!2sin!4v1728641797190!5m2!1sen!2sin'
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3831.396181252183!2d80.0521135395922!3d16.200059645294154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a8729805efff9%3A0x3c49f6f7829f8426!2sNarasaraopeta%20Engineering%20College%20(Autonomous)!5e0!3m2!1sen!2sin!4v1729496992818!5m2!1sen!2sin'
     },
     {
         id: 18,
@@ -500,21 +500,6 @@ export const EngineeringData = [
     },
     {
         id: 34,
-        name: "Narasaraopeta Engineering College (NEC)",
-        university: 'Autonomous',
-        departments: 'M.TEch/B.Tech',
-        address: 'Kotappakonda Rd, Narasaraopeta, Andhra Pradesh 522601 Phone: 086472 39904',
-        principalName: 'Dr. Rajendra Prasad',
-        principalNumber: '8106876577',
-        tpoName: 'Syam Kumar Reddy Kolli ',
-        tpoNumber: '9885553622',
-        mailId: 'info@nrtec.in',
-        officeNumber: '8106306313,09154686203',
-        website: 'https://www.nrtec.in/',
-        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3831.396181252183!2d80.0521135395922!3d16.200059645294154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a8729805efff9%3A0x3c49f6f7829f8426!2sNarasaraopeta%20Engineering%20College%20(Autonomous)!5e0!3m2!1sen!2sin!4v1729496992818!5m2!1sen!2sin'
-    },
-    {
-        id: 35,
         name: "Sri Mittapalli Institute of Technology for Women Engineering College",
         university: 'JNTU Kakinada',
         departments: 'M.TEch, B.Tech',
@@ -656,7 +641,7 @@ export const PharmacyData = [
     },
     {
         id: 9,
-        name: "K.C. Reddy Institute of Pharmaceutical Sciences",
+        name: "K.C. Reddy Institute of Pharmaceutical Sciences - Temporarly closed",
         university: 'Acharya Nagarjuna University',
         departments: 'B. Pharm, M. Pharm, D.Pharma ',
         address: 'Jangamguntlapalem, Village, Medikonduru, Andhra Pradesh 522348',
@@ -681,8 +666,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'principal_7w@yahoo.com',
         officeNumber: '',
-        website: '',
-        iframe: ''
+        website: 'http://www.malinenicolleges.ac.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.0485842775597!2d80.40625607418355!3d16.24750113464266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a745fc35f97fd%3A0x692986c44aaa5505!2sMalineni%20Perumallu%20Educational%20Society&#39;s%20Group%20Of%20Institutions!5e1!3m2!1sen!2sin!4v1729661077956!5m2!1sen!2sin'
     },
     {
         id: 11,
@@ -696,8 +681,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'prins2mam@gmail.com',
         officeNumber: '08647-218196/ 9848498714/6301425803 / 9951420612',
-        website: '',
-        iframe: ''
+        website: 'https://mamcollegeofpharmacy.ac.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.699256082647!2d80.08356077418267!3d16.20743953572501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a870a8bd4f3d5%3A0x29f669984bd74f89!2sMEDARAMETLA%20ANJAMMA%20MASTAN%20RAO%20COLLEGE%20OF%20PHARMACY!5e1!3m2!1sen!2sin!4v1729661276740!5m2!1sen!2sin'
     },
     {
         id: 12,
@@ -711,8 +696,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'nipsprincipal07@gmail.com, contact@nips.edu.in',
         officeNumber: '98481 51522',
-        website: '',
-        iframe: ''
+        website: 'https://nips.edu.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.831526053956!2d80.05431837418251!3d16.199283935944973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a872095d1e26f%3A0x5570edb2ba1e67c6!2sNarasaraopeta%20Institute%20of%20Pharmaceutical%20Sciences!5e1!3m2!1sen!2sin!4v1729661378765!5m2!1sen!2sin'
     },
     {
         id: 13,
@@ -726,8 +711,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'pamula1114@gmail.com, principal@ncpacsag.ac.in, ncpa_csagp@yahoo.co.in',
         officeNumber: '08645-236255, 236722',
-        website: '',
-        iframe: ''
+        website: 'https://www.nirmalacp.org/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3194.0972063947484!2d80.57867177418751!3d16.42802272973472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f11f0fffffff%3A0x79870c701b0cc5a2!2sNirmala%20College%20of%20Pharmacy!5e1!3m2!1sen!2sin!4v1729661487148!5m2!1sen!2sin'
     },
     {
         id: 14,
@@ -741,8 +726,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'vaishnavi.72.kv@gmail.com, gcpprincy@yahoo.com',
         officeNumber: '086442 20487/08644-212388',
-        website: '',
-        iframe: ''
+        website: 'http://www.guptapharmacy.org/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3551.3583129461217!2d80.67813527478899!3d16.23695313446712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0681c6e90613%3A0xa8fd0e197faaf287!2sNRK%20%26%20KSR%20Gupta%20PG%20College!5e1!3m2!1sen!2sin!4v1729685939795!5m2!1sen!2sin'
     },
     {
         id: 15,
@@ -756,8 +741,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'piperguntur@gmail.com',
         officeNumber: '08632287833/9985548183/9133331965',
-        website: '',
-        iframe: ''
+        website: 'https://pitmgnt.ac.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3551.3656731735555!2d80.394029674789!3d16.23654538446747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a746feb61615f%3A0xd42b960b4fee42be!2sPriyadarshini%20Institute%20Of%20Technology%20%26%20Management!5e1!3m2!1sen!2sin!4v1729686034174!5m2!1sen!2sin'
     },
     {
         id: 16,
@@ -771,8 +756,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'sipbpharm@gmail.com',
         officeNumber: '+91 86412 37863/+91 9948766623/24/25',
-        website: '',
-        iframe: ''
+        website: 'https://www.nalandapharmacy.ac.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3548.8176710644425!2d80.20761937479226!3d16.377112184347933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a358a83b5d7dcaf%3A0xd3666f39b2aa1bf6!2sNalanda%20Institute%20Of%20Pharmaceutical%20Sciences!5e1!3m2!1sen!2sin!4v1729686153131!5m2!1sen!2sin'
     },
     {
         id: 17,
@@ -787,7 +772,7 @@ export const PharmacyData = [
         mailId: 'vbcops.guntur@gmail.com',
         officeNumber: '0863-2290958  2290406, 9441014932',
         website: '',
-        iframe: ''
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.84034996858!2d80.33415417479097!3d16.32083508439565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3589dc1f6aaaa9%3A0x92d78cc58ce81d0c!2sVishwa%20Bharathi%20College%20of%20Pharmaceutical%20Sciences!5e1!3m2!1sen!2sin!4v1729686196205!5m2!1sen!2sin'
     },
     {
         id: 18,
@@ -801,8 +786,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'psbabu0104@gmail.com, principal@vignanpharmacycollege.in, vpcec06@gmail.com',
         officeNumber: '+91 0863 - 2347768, 2347769',
-        website: '',
-        iframe: ''
+        website: 'https://www.vignanpharmacycollege.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3551.4722016813776!2d80.54797857478884!3d16.23064268447249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0953410bc2ad%3A0xd280b14226b473d0!2sVignan%20Pharmacy%20College%2C!5e1!3m2!1sen!2sin!4v1729686251966!5m2!1sen!2sin'
     },
     {
         id: 19,
@@ -817,7 +802,7 @@ export const PharmacyData = [
         mailId: 'vcpprincy@yahoo.com',
         officeNumber: 'Dr. Raj Kumar - (0863-2596544, 2596530, 9440261272)',
         website: '',
-        iframe: ''
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3550.242577334844!2d80.3767436747904!3d16.298649084414542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a75261467f483%3A0xbceefeeab5e7d744!2sVictoria%20college%20of%20pharmacy!5e1!3m2!1sen!2sin!4v1729686302854!5m2!1sen!2sin'
     },
     {
         id: 20,
@@ -831,8 +816,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'vcpgurazala@gmail.com',
         officeNumber: '9010937327, 9177583339',
-        website: '',
-        iframe: ''
+        website: 'https://vagdevigurazala.in/wp1/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630642.794589428!2d76.99521307974366!3d16.555703599999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a354156fe58e687%3A0x660a19592e2e0245!2sVagdevi%20Pharmacy%20%26%20Degree%20College!5e1!3m2!1sen!2sin!4v1729686419382!5m2!1sen!2sin'
     },
     {
         id: 21,
@@ -846,8 +831,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'principalstxip@gmail.com',
         officeNumber: '8641 257799, 7382587866',
-        website: '',
-        iframe: ''
+        website: 'https://www.stxip.org/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3550.334031199444!2d80.26941807479032!3d16.29360058441886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a781c70832a81%3A0x6f72e7decea2bab8!2sSt.Xavier%20institute%20of%20Pharmacy!5e1!3m2!1sen!2sin!4v1729686485766!5m2!1sen!2sin'
     },
     {
         id: 22,
@@ -861,8 +846,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'bthangabalan@gmail.com, info@simscollege.ac.in, pharmacy@simscollege.ac.in',
         officeNumber: '0863-2225201, 9849503803',
-        website: '',
-        iframe: ''
+        website: 'http://pharmacy.simscollege.ac.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3550.0442351392435!2d80.46084497479069!3d16.309592884405316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0b80a305a275%3A0xe09424ef624bea25!2sSims%20college%20of%20pharmacy!5e1!3m2!1sen!2sin!4v1729686528398!5m2!1sen!2sin'
     },
     {
         id: 23,
@@ -876,8 +861,8 @@ export const PharmacyData = [
         tpoNumber: '',
         mailId: 'sibpharm@gmail.com',
         officeNumber: '08647-218234, 9247040593, 9959117150',
-        website: '',
-        iframe: ''
+        website: 'https://siddharthapharmacy.co.in/',
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3551.2038095664707!2d80.08397607478922!3d16.245510184459768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a80ec2f0d8fbf%3A0x4e938ab7152decfe!2sSiddhartha%20Institute%20of%20Pharmaceutical%20Sciences%2C%20Narasaraopet!5e1!3m2!1sen!2sin!4v1729686622800!5m2!1sen!2sin'
     },
     {
         id: 24,
@@ -892,7 +877,7 @@ export const PharmacyData = [
         mailId: 'saradapharmacycollege@yahoo.co.in',
         officeNumber: '',
         website: '',
-        iframe: ''
+        iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3553.204450754935!2d80.04384197478669!3d16.134364584554568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a863642a334ff%3A0xd0b3a7353393577c!2sSarada%20Pharmacy%20College!5e1!3m2!1sen!2sin!4v1729686664830!5m2!1sen!2sin'
     },
 
 

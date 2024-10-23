@@ -11,11 +11,11 @@ body {
   align-items: center;
 }
 :root {
-  --primary-color: #ffd1d14d;
+  --primary-color: #c6f7ff7a;
   --secondary-color: #000;
   --text-color: #000000;
   --border-color: #4f4f4f;
-  --card-color: #e5f9ffb7;
+  --card-color: #ffffff;
 }
 ::-webkit-scrollbar {
   width: 5px; /* Width of the scrollbar */
